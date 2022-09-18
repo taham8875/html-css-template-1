@@ -1,2 +1,2 @@
-# html-css-template-1
+# html-css-template1
 Elzero web school html and css course
